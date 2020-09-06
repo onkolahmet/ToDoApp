@@ -6,9 +6,9 @@
 
 # Functionality of the app 
 - User can create numerous of custom lists and add or deletes an item from these lists. 
-- In a further time they can revisit these lists and make adjustments on them if they wish to since data is dynamically rendered by EJS files.
-- For creating a custom todo list you can just add lists' name to the end of the URL. 
-- If user want to name the custom list as work, after adding that name to the URL will result as: 
+- In a further time users can revisit these lists and make adjustments on them if they wish to since data is dynamically rendered through the relationship between EJS files and app.js .
+- For creating a custom todo list user can add list's name to the end of the URL. 
+- For instance, if the user wants to name the custom list as work, after adding that name to the URL will result as: 
 - http://todoapp-onkolahmet.herokuapp.com/work
 
 
@@ -19,4 +19,4 @@
 
 
 - In this app, data is persistence. 
-- What is meant by that is, neither user adds or deletes an element from a list, nor refreshes or closes the page; data will remain unchanged and user may visit in a further time.
+- What is meant by that is, neither user adds or deletes an item, nor refreshes or closes the page; data will remain unchanged and user may visit in a further time.
