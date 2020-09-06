@@ -11,9 +11,11 @@
 - If user want to name the custom list as work, after adding that name to the URL will result as: 
 - http://todoapp-onkolahmet.herokuapp.com/work
 
-![home](https://user-images.githubusercontent.com/62245004/92332265-46f50200-f085-11ea-8ad7-b45277515278.png)
 
-![work resized](https://user-images.githubusercontent.com/62245004/92332266-478d9880-f085-11ea-955e-da93babb2f00.png)
+![work resized](https://user-images.githubusercontent.com/62245004/92332541-49f0f200-f087-11ea-8259-f70f8f416846.png)
+
+
+![home resized](https://user-images.githubusercontent.com/62245004/92332542-4a898880-f087-11ea-81c4-fca1a16c0b28.png)
 
 
 - In this app, data is persistence. 
