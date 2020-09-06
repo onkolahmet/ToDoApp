@@ -11,13 +11,13 @@
 - For instance, if the user wants to name the custom list as work, after adding that name to the URL will result as: 
 - http://todoapp-onkolahmet.herokuapp.com/work
 
-- In this app, data is persistence. 
-- What is meant by that is, neither user adds or deletes an item, nor refreshes or closes the page; data will remain unchanged and user may visit in a further time.
-
 
 ![work resized](https://user-images.githubusercontent.com/62245004/92332541-49f0f200-f087-11ea-8259-f70f8f416846.png)
 
 
 ![home resized](https://user-images.githubusercontent.com/62245004/92332542-4a898880-f087-11ea-81c4-fca1a16c0b28.png)
+
+- In this app, data is persistence. 
+- What is meant by that is, neither user adds or deletes an item, nor refreshes or closes the page; data will remain unchanged and user may visit in a further time.
 
 
