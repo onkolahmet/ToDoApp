@@ -5,8 +5,8 @@
 - http://todoapp-onkolahmet.herokuapp.com
 
 # Functionality of the app 
-- User can create numerous of custom lists and add or deletes an item
-- In a further time they can revisit these lists and make adjustments on them if they wish since data is dynamically rendered by EJS files.
+- User can create numerous of custom lists and add or deletes an item from these lists. 
+- In a further time they can revisit these lists and make adjustments on them if they wish to since data is dynamically rendered by EJS files.
 - For creating a custom todo list you can just add lists' name to the end of the URL. 
 - If user want to name the custom list as work, after adding that name to the URL will result as: 
 - http://todoapp-onkolahmet.herokuapp.com/work
